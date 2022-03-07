@@ -1,6 +1,6 @@
 ![8721son's GitHub stats](https://github-readme-stats.vercel.app/api?username=8721son&count_private=true&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8721son&langs_count=10&theme=github_dark&exclude_repo=Jsp-Model2-MySQL-blog,Spring-MyBatis-MySQL-traveler,mybatis-crud&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8721son&langs_count=10&theme=github_dark&exclude_repo=Jsp-Model2-MySQL-blog,Spring-MyBatis-MySQL-traveler,mybatis-crud&layout=compact) -->
 
 <!--
 **8721son/8721son** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
